@@ -3,7 +3,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 public class FactoryPrincipal {
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) {
         int numBalls = 100000;
         int numSlots = 30;
 
